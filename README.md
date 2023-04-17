@@ -1,5 +1,8 @@
 # Unity week 2: Formal elements
 
+
+https://smarthomegame.itch.io/shmuel-ex4
+
 A project with step-by-step scenes illustrating some of the formal elements of game development in Unity, including: 
 
 * Prefabs for instantiating new objects;
