@@ -3,6 +3,12 @@
 
 https://smarthomegame.itch.io/shmuel-ex4
 
+The change: 
+
+1) the score you get for each enemy is base on the speed of the enemy
+
+2) add prefab for a frendly spacesheep, if you kill them you  get -10 points
+
 A project with step-by-step scenes illustrating some of the formal elements of game development in Unity, including: 
 
 * Prefabs for instantiating new objects;
